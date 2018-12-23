@@ -1,1 +1,5 @@
-# microservice
+# Performance Modeling and Optimization of Microservice-based Applications in Clouds
+Liang Bao, Chase Wu, Nana Ren, Mengqing Shen and Xiaoxuan Bu
+
+## Abstract
+Microservice has been increasingly recognized as a promising architectural style for constructing large-scale cloud-based applications within and across organizational boundaries. This microservice-based architecture greatly increases application scalability, but meanwhile incurs an expensive performance overhead, which calls for a careful design of performance modeling and task scheduling. However, these problems have thus far remained largely unexplored. In this paper, we develop a performance modeling and prediction method for independent microservices, design a three-layer performance model for microservice-based applications, formulate a Microservice-based Application Scheduling problem for minimum end-to-end delay under a user-specified Budget Constraint (MAS-BC), and propose a heuristic microservice scheduling algorithm. The performance modeling and prediction method are validated and justified by experimental results generated through a well-known microservice benchmark on disparate computing nodes, and the performance superiority of the proposed scheduling solution is illustrated by extensive simulation results in comparison with existing algorithms.
